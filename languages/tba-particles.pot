@@ -1,0 +1,634 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-24 17:41+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: tba-particles.php:243
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"http://bit.ly/vcomposer\" "
+"target=\"_blank\">Visual Composer</a></strong> plugin to be installed and "
+"activated on your site."
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:5
+msgid "Particles Background"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:6
+msgid "Add Particles to Background"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:11
+msgid "Id - unique per page"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:12
+msgid "Particles number"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:13
+msgid "Particles density"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:14
+msgid "Particle type"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:15
+msgid "Particle image"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:16
+#: elements/defaults/vc_row_particles.php:56
+msgid "Particle color"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:17
+msgid "Particle stroke color"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:18
+msgid "Particle stroke width"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:19
+msgid "Polygon particle sides"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:23
+msgid "Particle size"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:24
+msgid "Randomize particle size"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:25
+msgid "Animate particle size"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:26
+#: elements/addons/vc_particles_background_element.php:33
+msgid "Animation speed"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:27
+msgid "Minimum particle size"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:28
+#: elements/addons/vc_particles_background_element.php:35
+msgid "Sync animation"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:30
+msgid "Particle opacity"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:31
+msgid "Randomize opacity"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:32
+msgid "Animate particle opacity"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:34
+msgid "Minimum particle opacity"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:37
+msgid "Enable movement"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:38
+msgid "Direction"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:39
+msgid "Enable random particles"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:40
+msgid "Enable straight particles"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:41
+msgid "Speed"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:42
+msgid "Boundary mode"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:44
+msgid "Enable line linking"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:45
+msgid "Maximum distance"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:46
+msgid "Line color"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:47
+msgid "Line opacity"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:48
+msgid "Line width"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:51
+msgid "Enable?"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:52
+msgid "Mode"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:54
+msgid "Grab distance"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:55
+msgid "Grab opacity"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:56
+msgid "Repulse distance"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:58
+msgid "VC Row hookup classes"
+msgstr ""
+
+#: elements/addons/vc_particles_background_element.php:59
+msgid "Z-index"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:8
+msgid "Background Style"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:11
+msgid "Default"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:12
+msgid "ParticleGround Matrix Effect"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:13
+msgid "Particle Js"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:14
+msgid "Three Js Birds"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:15
+msgid "Particle Swarm Effect"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:16
+msgid "ALIEN - Deviation of microcosm"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:17
+msgid "Three Js Particles Wave"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:18
+msgid "Ambient Background"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:20
+msgid "Select the kind of background would you like to set for this row."
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:21
+#: elements/defaults/vc_row_particles.php:41
+#: elements/defaults/vc_row_particles.php:50
+#: elements/defaults/vc_row_particles.php:61
+#: elements/defaults/vc_row_particles.php:72
+#: elements/defaults/vc_row_particles.php:83
+#: elements/defaults/vc_row_particles.php:94
+#: elements/defaults/vc_row_particles.php:105
+#: elements/defaults/vc_row_particles.php:116
+#: elements/defaults/vc_row_particles.php:130
+#: elements/defaults/vc_row_particles.php:142
+#: elements/defaults/vc_row_particles.php:153
+#: elements/defaults/vc_row_particles.php:164
+#: elements/defaults/vc_row_particles.php:174
+#: elements/defaults/vc_row_particles.php:186
+#: elements/defaults/vc_row_particles.php:198
+#: elements/defaults/vc_row_particles.php:209
+#: elements/defaults/vc_row_particles.php:220
+#: elements/defaults/vc_row_particles.php:232
+#: elements/defaults/vc_row_particles.php:243
+#: elements/defaults/vc_row_particles.php:254
+#: elements/defaults/vc_row_particles.php:265
+#: elements/defaults/vc_row_particles.php:276
+#: elements/defaults/vc_row_particles.php:290
+#: elements/defaults/vc_row_particles.php:312
+#: elements/defaults/vc_row_particles.php:324
+#: elements/defaults/vc_row_particles.php:336
+#: elements/defaults/vc_row_particles.php:347
+#: elements/defaults/vc_row_particles.php:362
+#: elements/defaults/vc_row_particles.php:376
+#: elements/defaults/vc_row_particles.php:392
+#: elements/defaults/vc_row_particles.php:404
+#: elements/defaults/vc_row_particles.php:421
+#: elements/defaults/vc_row_particles.php:432
+#: elements/defaults/vc_row_particles.php:580
+#: elements/defaults/vc_row_particles.php:591
+#: elements/defaults/vc_row_particles.php:603
+#: elements/defaults/vc_row_particles.php:615
+#: elements/defaults/vc_row_particles.php:626
+#: elements/defaults/vc_row_particles.php:638
+#: elements/defaults/vc_row_particles.php:649
+#: elements/defaults/vc_row_particles.php:660
+#: elements/defaults/vc_row_particles.php:671
+#: elements/defaults/vc_row_particles.php:682
+#: elements/defaults/vc_row_particles.php:694
+#: elements/defaults/vc_row_particles.php:706
+#: elements/defaults/vc_row_particles.php:717
+#: elements/defaults/vc_row_particles.php:728
+#: elements/defaults/vc_row_particles.php:739
+#: elements/defaults/vc_row_particles.php:750
+#: elements/defaults/vc_row_particles.php:761
+msgid "Particles"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:28
+msgid "Particle Shape"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:31
+msgid "Circle"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:32
+msgid "Edge"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:33
+msgid "Triangle"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:34
+msgid "Polygon"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:35
+msgid "Star"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:36
+msgid "Image"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:47
+msgid "Particle Image"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:67
+msgid "Particle Stroke"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:78
+msgid "stroke color"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:89
+msgid "Particle Polygon Sides"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:100
+msgid "No of Particles"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:111
+msgid "Particle Size"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:122
+msgid "Random Particle Size"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:126
+#: elements/defaults/vc_row_particles.php:140
+#: elements/defaults/vc_row_particles.php:184
+#: elements/defaults/vc_row_particles.php:196
+#: elements/defaults/vc_row_particles.php:230
+#: elements/defaults/vc_row_particles.php:286
+#: elements/defaults/vc_row_particles.php:322
+#: elements/defaults/vc_row_particles.php:334
+#: elements/defaults/vc_row_particles.php:372
+#: elements/defaults/vc_row_particles.php:402
+#: elements/defaults/vc_row_particles.php:613
+msgid "Yes"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:136
+msgid "Animate Particle Size"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:148
+msgid "Size Animation Speed"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:159
+msgid "Min. Size"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:170
+msgid "Opacity"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:180
+msgid "Random Opacity"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:192
+msgid "Animate Particle Opacity"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:204
+msgid "Opacity Animation Speed"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:215
+msgid "Min. Opacity"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:226
+msgid "Want Particle Linked ?"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:238
+msgid "Distance for link"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:249
+#: elements/defaults/vc_row_particles.php:537
+msgid "Line Color"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:260
+msgid "Line Opacity"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:271
+#: elements/defaults/vc_row_particles.php:559
+msgid "Line Width"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:282
+msgid "Want Particle Move?"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:296
+msgid "Particle Movement Direction"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:299
+msgid "None"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:300
+msgid "Top"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:301
+msgid "Top Right"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:302
+#: elements/defaults/vc_row_particles.php:488
+msgid "Right"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:303
+msgid "Bottom Right"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:304
+msgid "Bottom"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:305
+msgid "Bottom Left"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:306
+#: elements/defaults/vc_row_particles.php:487
+msgid "Left"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:307
+msgid "Top Left"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:318
+msgid "Random Movement?"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:330
+msgid "Move Straight?"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:342
+msgid "Particle Movement Speed"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:353
+msgid "Particle Out Mode"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:356
+msgid "Out"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:357
+msgid "Bounce"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:368
+msgid "Active Hover Effect on Particles?"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:382
+msgid "Hover Effect"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:385
+msgid "Grab"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:386
+#: elements/defaults/vc_row_particles.php:415
+msgid "Bubble"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:387
+#: elements/defaults/vc_row_particles.php:416
+msgid "Repulse"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:398
+msgid "Active Click Effect on Particles?"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:410
+msgid "Click Effect"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:413
+msgid "Push"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:414
+msgid "Remove"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:427
+msgid "Particles Z-Index"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:439
+msgid "Min Speedx"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:450
+msgid "Max Speedx"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:461
+msgid "Min Speedy"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:472
+msgid "Max Speedy"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:483
+msgid "Direction X"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:486
+#: elements/defaults/vc_row_particles.php:502
+msgid "Default / Center"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:499
+msgid "Direction Y"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:503
+msgid "Up"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:504
+msgid "down"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:515
+msgid "Density"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:526
+msgid "Dot Color"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:548
+msgid "Particle Radius"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:571
+msgid "Bird Type"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:574
+msgid "Black / White"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:575
+msgid "colourful"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:586
+msgid "Bird Count"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:598
+#: elements/defaults/vc_row_particles.php:633
+msgid "Particle Count"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:609
+msgid "Rotate Color?"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:621
+#: elements/defaults/vc_row_particles.php:689
+msgid "Particle Color"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:644
+msgid "Color 1"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:655
+msgid "Color 2"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:666
+msgid "Background Color 1"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:677
+msgid "Background Color 2"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:701
+msgid "Small Particle Color"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:712
+msgid "Medium Particle Color"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:723
+msgid "Large Particle Color"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:734
+msgid "Light Color1"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:745
+msgid "Light Color2"
+msgstr ""
+
+#: elements/defaults/vc_row_particles.php:756
+msgid "Light Color3"
+msgstr ""

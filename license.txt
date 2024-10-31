@@ -1,0 +1,17 @@
+/*
+The Basement.Agency Particles Background is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+any later version.
+ 
+The Basement.Agency Particles Background is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+ 
+You should have received a copy of the GNU General Public License
+along with The Basement.Agency Particles Background. If not, see {URI to Plugin License}.
+
+The Basement.Agency Particles Background plugin utilizes the particles.js library made by Vincent Garreau, where all rights
+reserved can be found inside the "/particles-lib/particles.js" path and the license filename is "license.md".
+*/

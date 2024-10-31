@@ -1,0 +1,3 @@
+.pb_bg { position: relative; box-sizing: inherit !important; }
+
+.pb_row { width: 100%; height: 100%; overflow: hidden; position: absolute; left: 0; top: 0; z-index: 0; }
